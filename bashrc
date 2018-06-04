@@ -1,6 +1,4 @@
 
-
-
 export CS61B_LIB_DIR="/Users/TangDexian/dropbox/cs61b_repo/skeleton-sp17/javalib/*"
 export CLASSPATH="$CLASSPATH:$CS61B_LIB_DIR:./"
 export PATH=$PATH:/usr/local/mysql/bin
